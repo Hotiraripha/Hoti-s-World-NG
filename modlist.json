@@ -1,38 +1,41 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "HotisWorld NG",
     "description": "A Work In Progress total overhaul of Fallout 4 that aims to be what I would have wanted the game to be, feedback welcome but remember, it is in beta.",
     "author": "Hotiraripha",
     "maintainers": [
       "github/Hotiraripha"
     ],
-    "game": "Fallout4",
+    "game": "fallout4",
+    "official": false,
     "tags": [
       "beta",
       "Lore-friendly",
       "overhaul"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/fallout_4_ng-900x408.jpg",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Hotisworld%20NG.wabbajack_2ef5d9ee-6359-4e48-b96f-3ec4ab9bafea",
+      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_82c87ce7-4a5f-4b18-9cb3-2f2a7e868a8d",
       "machineURL": "hotisworld_ng",
       "discordURL": "https://discord.gg/knCJnmbUQK"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"XVkmn887Eec=",
-      "Size":59512825,
-      "NumberOfArchives":759,
-      "SizeOfArchives":189536935499,
-      "NumberOfInstalledFiles":57182,
-      "SizeOfInstalledFiles":203707460640}
-    ,
-    "version": "0.1"
+      "Hash": "7Ruon0nahrg=",
+      "Size": 59511301,
+      "NumberOfArchives": 761,
+      "SizeOfArchives": 189577204350,
+      "NumberOfInstalledFiles": 57143,
+      "SizeOfInstalledFiles": 203710356649
+    },
+    "version": "0.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-09-01T21:01:14.2479024Z",
+    "repositoryName": ""
   }
 ]
