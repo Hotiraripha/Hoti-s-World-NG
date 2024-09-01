@@ -14,7 +14,7 @@ I have been working on this for the past few months, remaking it and deleting, t
 
 SPECS discussion as of August 2024:
 
-150GB for the modlist itself and 40GB for Fallout 4 from steam ONLY, GOG is not supported as of now.
+You will need 370GB total of storage.
 
 you will also need to have installed hotisworld on either a sata or nvme SSD, HDDs or SSHDD are not supported.
 
