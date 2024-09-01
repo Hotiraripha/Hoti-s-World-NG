@@ -1,6 +1,7 @@
 # Hoti-s-World-NG
 
 DESCRIPTION, READ EVERYTHING
+
 PRE INSTALLATION: If you have played mods such as fallout london, make sure to have a vanilla version of un-downgraded fallout 4, fully vanila installation that has regenerated ini files, make also sure to have launched the game at least once and selected your graphical settings.
 
 
