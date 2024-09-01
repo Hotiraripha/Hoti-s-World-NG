@@ -11,7 +11,7 @@
     "tags": [
       "beta",
       "Lore-friendly",
-      "overhaul"
+      "overhaul",
       "<any tags you want in the UI, each in its own string"
     ],
     "nsfw": false,
