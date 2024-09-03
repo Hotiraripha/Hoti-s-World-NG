@@ -21,21 +21,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/fallout_4_ng-900x408.jpg",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_82c87ce7-4a5f-4b18-9cb3-2f2a7e868a8d",
+      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_0b338f04-bdd9-4dae-ae1a-972df7c68cb3",
       "machineURL": "hotisworld_ng",
       "discordURL": "https://discord.gg/knCJnmbUQK"
     },
     "download_metadata": {
-      "Hash": "7Ruon0nahrg=",
-      "Size": 59511301,
-      "NumberOfArchives": 761,
-      "SizeOfArchives": 189577204350,
-      "NumberOfInstalledFiles": 57143,
-      "SizeOfInstalledFiles": 203710356649
+      "Hash": "slpe2WcH+98=",
+      "Size": 59634125,
+      "NumberOfArchives": 775,
+      "SizeOfArchives": 190182010906,
+      "NumberOfInstalledFiles": 57487,
+      "SizeOfInstalledFiles": 204152825979
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-01T21:01:14.2479024Z",
+    "dateUpdated": "2024-09-03T03:09:00.4540499Z",
     "repositoryName": ""
   }
 ]
