@@ -35,7 +35,13 @@ Original Main Menu video in 32:9
 Smaller UI size
 Original intro videos
 
+MODIFICATIONS:
 
+For people adding mods to the modlist, as upgrades come and go, if you do not mark them with the [NoDelete] flag in MO2 they will be removed once you apply a new update of the modlist, to avoid so, once again, please apply said flag to the name of the mod by renaming it in mod organizer 2's left handside, example courtesy of Geministorm on the discord server:
+
+Oh, forgot to mention, for people upgrading as you make fixes...if they have added mods and don't want to lose them to an update, they need to go into the /HotisWorld/mods directory and put, [NODELETE] in front of those mod names
+
+so, "[NODELETE] XM2010 Enhanced Sniper Rifle" might be an example
 
 I do take feedback which you can write in the comment section or in this WIP server for Hotisworld NG ''Hoti's World Reborn'' where you can directly tell me about changes or improvements you would like to see, but please keep in mind I will not make something I would not play, my vision comes first for the ideal Fallout, but I will also give you the freedom to play however you please by giving  you said tools.
 
