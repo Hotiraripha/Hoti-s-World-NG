@@ -17,7 +17,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/fallout_4_ng-900x408.jpg",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
