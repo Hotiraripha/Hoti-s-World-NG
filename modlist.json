@@ -4,7 +4,8 @@
     "description": "A Work In Progress total overhaul of Fallout 4 that aims to be what I would have wanted the game to be, feedback welcome but remember, it is in beta.",
     "author": "Hotiraripha",
     "maintainers": [
-      "github/Hotiraripha"
+      "github/Hotiraripha",
+      "github/PatrickJnr"
     ],
     "game": "fallout4",
     "official": false,
