@@ -23,8 +23,8 @@ If you’ve previously played mods like Fallout London, ensure you have a clean,
 1. **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
 2. **Display Configuration**: The modlist is preconfigured for Super Ultrawide displays (32:9). You may need to disable certain mods for different setups:
    - Original Main Menu Video in 32:9
-   - Smaller UI Size
-   - Original Intro Videos
+   - Super Ultra Wide Interface (32x9)
+   - Original Intro Videos in 32x9
 
 ## Modifications
 
