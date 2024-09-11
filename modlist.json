@@ -19,11 +19,11 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/fallout_4_ng-900x408.jpg",
+      "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/img/banner.png",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_9ca19bcb-27d3-47c5-8996-9f7416022709",
       "machineURL": "hotisworld_ng",
