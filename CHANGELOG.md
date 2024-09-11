@@ -100,3 +100,14 @@
 - Continued DXVK development (potentially incompatible with DLSS).
 - Seeking music additions that are safe for streaming and recording.
 - Planned v0.4 update with logo splash screen change.
+
+## [v0.4] - 11/09/2024
+### Changed
+- Added more PRP patches.
+- Removed Vivid Fallout and redundant mods due to the inclusion of a "forest."
+- Updated splash screen.
+
+### Known Issues
+- Textures flicker in and out of existence when using an FOV higher than default; try creating a new save file to check if the issue persists in previously visited areas.
+- Invisible Mysterious Stranger outfit.
+- Some caravan guards are missing clothes.
