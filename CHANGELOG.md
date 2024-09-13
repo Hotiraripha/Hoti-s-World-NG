@@ -111,3 +111,8 @@
 - Textures flicker in and out of existence when using an FOV higher than default; try creating a new save file to check if the issue persists in previously visited areas.
 - Invisible Mysterious Stranger outfit.
 - Some caravan guards are missing clothes.
+
+## [v0.4.1] - 12/09/2024
+### Updated
+- Updated Karma and Enhanced Movement mods to their latest versions.
+- Made super ultrawide mods optional.
