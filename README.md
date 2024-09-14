@@ -40,11 +40,8 @@ For more information, check out the [Wabbajack Installation Guide](https://githu
 
 ## Post-Installation
 
-1. **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
-2. **Display Configuration**: The modlist is preconfigured for Super Ultrawide displays (32:9). You may need to disable certain mods for different setups:
-   - Original Main Menu Video in 32:9
-   - Super Ultra Wide Interface (32x9)
-   - Original Intro Videos in 32x9
+ **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
+
 
 ## Modifications
 
