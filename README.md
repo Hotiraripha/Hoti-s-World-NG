@@ -56,5 +56,5 @@ Your feedback is valuable! Share your thoughts or suggestions in the comments or
 
 Thank you for your support!
 
-- **Discord Server**: [Join Here](https://discord.gg/knCJnmbUQK)
+- **Discord Server**: [Join Here](https://discord.gg/uHDxUzWgRa)
 - **Load Order**: [View Load Order](https://loadorderlibrary.com/lists/hoti-s-world-ng#loadorder.txt)
