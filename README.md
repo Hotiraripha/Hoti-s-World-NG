@@ -1,4 +1,21 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/img/banner.png" alt="Banner" title="Banner" width="500">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-v0.4.1-blue" alt="Version">
+  <img src="https://img.shields.io/badge/status-WIP-yellow" alt="Status">
+</p>
+
 # Hoti's World NG
+
+## Table of Contents
+- [Description](#description)
+- [Pre-Installation](#pre-installation)
+- [Specifications](#specifications-as-of-august-2024)
+- [Post-Installation](#post-installation)
+- [Modifications](#modifications)
+- [Feedback and Community](#feedback-and-community)
 
 ## Description
 
@@ -7,16 +24,19 @@ Welcome to the WIP version of Hoti's World NG! This update, dubbed "Hoti's World
 ## Pre-Installation
 
 If you’ve previously played mods like Fallout London, ensure you have a clean, unmodified installation of Fallout 4:
-- **Vanilla Version**: Make sure it’s fully updated and unmodified, with regenerated INI files.
-- **Initial Launch**: Launch the game at least once and configure your graphical settings.
+
+- 🔧 **Vanilla Version**: Make sure it’s fully updated and unmodified, with regenerated INI files.
+- 💻 **Initial Launch**: Launch the game at least once and configure your graphical settings.
+
+For more information, check out the [Wabbajack Installation Guide](https://github.com/wabbajack-tools/wabbajack/wiki/Installation) and the [MO2 User Guide](https://modding.wiki/en/modding-guides/mod-organizer-2).
 
 ## Specifications (as of August 2024)
 
-- **Storage**: You will need a total of 370 GB of available storage.
-- **Drive**: Install Hoti’s World NG on either a SATA or NVMe SSD. HDDs or SSHDDs are not supported.
-- **GPU**: While the modlist doesn’t demand more VRAM than vanilla Fallout 4, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
-- **RAM**: A minimum of 32 GB is required.
-- **CPU**: A 6-core processor (e.g., i5-10400F or R5 3600) is adequate. Higher single-threaded performance will yield better results.
+- 💾 **Storage**: You will need a total of 370 GB of available storage.
+- 🚀 **Drive**: Install Hoti’s World NG on either a SATA or NVMe SSD. HDDs or SSHDDs are not supported.
+- 🖥 **GPU**: While the modlist doesn’t demand more VRAM than vanilla Fallout 4, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
+- 🧠 **RAM**: A minimum of 32 GB is required.
+- ⚙️ **CPU**: A 6-core processor (e.g., i5-10400F or R5 3600) is adequate. Higher single-threaded performance will yield better results.
 
 ## Post-Installation
 
