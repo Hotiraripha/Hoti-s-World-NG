@@ -116,3 +116,9 @@
 ### Updated
 - Updated Karma and Enhanced Movement mods to their latest versions.
 - Made super ultrawide mods optional.
+
+## [v0.4.2] - 15/09/2024
+### Added
+- New weapons and armour additions.
+- Updates to various mods.
+- Credit to @TomR27 for the suggestions and @Smug for notifying about the missing Graham outfit.
