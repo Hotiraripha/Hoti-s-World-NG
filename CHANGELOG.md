@@ -122,3 +122,19 @@
 - New weapons and armour additions.
 - Updates to various mods.
 - Credit to @TomR27 for the suggestions and @Smug for notifying about the missing Graham outfit.
+
+## [v0.5.1] - 16/09/2024
+### Fixed
+- Resolved installation issues.
+
+## [v0.5.2] - 16/09/2024
+### Changed
+- Removed X Cell.
+- Fixed headless NPCs issue reported by multiple users.
+- The modlist is back on the Wabbajack gallery.
+
+## [v0.6] - 17/09/2024
+### Added
+- Introduced new marked and unmarked interiors across the Commonwealth, expanding various locations.
+- Added new weapon mods, additional patches, and performance improvements.
+- This update may be save safe but requires further testing.
