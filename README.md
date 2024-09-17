@@ -25,6 +25,7 @@ Welcome to the WIP version of Hoti's World NG! This update, dubbed "Hoti's World
 
 If you’ve previously played mods like Fallout London, ensure you have a clean, unmodified installation of Fallout 4:
 
+- You now need the creation kit for fallout 4 to be able to install the modlist, made a requirement after the v0.5 update of the modlist.
 - 🔧 **Vanilla Version**: Make sure it’s fully updated and unmodified, with regenerated INI files.
 - 💻 **Initial Launch**: Launch the game at least once and configure your graphical settings.
 
