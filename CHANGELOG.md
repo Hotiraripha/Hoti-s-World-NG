@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.6.1] - 17/09/2024
+### Added
+- More RobCo-style patches.
+- Reintroduced the no scrap weight mod via RobCo.
+- Increased power armour durability.
+- Improved all factions to some degree.
+- Fixed invisible enemies bug.
+- This update is expected to be the last for a while unless new issues arise.
+
 ## [v0.6] - 17/09/2024
 ### Added
 - Introduced new marked and unmarked interiors across the Commonwealth, expanding various locations.
