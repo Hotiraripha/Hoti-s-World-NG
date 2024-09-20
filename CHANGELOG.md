@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.6.2] - 20/09/2024
+### Added
+- Updated mods to their latest versions.
+- Added an anti-material rifle.
+
+### Removed
+- Removed Classic Holstered Weapons due to crashes related to the skeleton of the player and enemies, as reported by users on the Discord server.
+
 ## [v0.6.1] - 17/09/2024
 ### Added
 - More RobCo-style patches.
@@ -7,7 +15,7 @@
 - Increased power armour durability.
 - Improved all factions to some degree.
 - Fixed invisible enemies bug.
-- This update is expected to be the last for a while unless new issues arise.
+- This update is expected to be the last for a while unless new issues arise.	
 
 ## [v0.6] - 17/09/2024
 ### Added
