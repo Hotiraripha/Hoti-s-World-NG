@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.6.3] - 20/09/2024
+### Added
+- Updated mods to their latest versions.
+- Added tools to the modlist:
+  - **CLASSIC**: A utility used to diagnose crashes. Please send crash reports ending in AUTOSCAN.
+  - **FO4Edit** and **FO4EditQuickAutoClean**.
+  - **r88 ESLify**.
+
+### Fixed
+- Fixed the photo mode mod, which was previously unusable (reported by @Patrick Jr.).
+
 ## [v0.6.2] - 20/09/2024
 ### Added
 - Updated mods to their latest versions.
