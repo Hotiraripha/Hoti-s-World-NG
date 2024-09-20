@@ -23,13 +23,13 @@ Welcome to the WIP version of Hoti's World NG! This update, dubbed "Hoti's World
 
 ## Pre-Installation
 
-If you’ve previously played mods like Fallout London, ensure you have a clean, unmodified installation of Fallout 4:
+If you’ve previously played mods like *Fallout London*, **ensure you have a clean, unmodified installation of Fallout 4**:
 
-- You now need the creation kit for fallout 4 to be able to install the modlist, made a requirement after the v0.5 update of the modlist.
-- 🔧 **Vanilla Version**: Make sure it’s fully updated and unmodified, with regenerated INI files.
-- 💻 **Initial Launch**: Launch the game at least once and configure your graphical settings.
+- 🔧 **Creation Kit Requirement**: As of the v0.5 update, you **must** have the Creation Kit for Fallout 4 installed to proceed with the installation of the modlist.
+- 🔧 **Vanilla Version**: Make sure your Fallout 4 game is fully updated and unmodified. Regenerate INI files for a fresh start.
+- 💻 **Initial Launch**: Run the game at least once before installation to configure your graphical settings.
 
-For more information, check out the [Wabbajack Installation Guide](https://github.com/wabbajack-tools/wabbajack/wiki/Installation) and the [MO2 User Guide](https://modding.wiki/en/modding-guides/mod-organizer-2).
+For further details, refer to the [Wabbajack Installation Guide](https://github.com/wabbajack-tools/wabbajack/wiki/Installation) and [MO2 User Guide](https://modding.wiki/en/modding-guides/mod-organizer-2).
 
 ## Specifications (as of August 2024)
 
