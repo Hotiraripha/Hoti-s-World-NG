@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.6.4] - 21/09/2024
+### Updated
+- Updated mods to their latest versions.
+- Patched additional mods.
+
 ## [v0.6.3] - 20/09/2024
 ### Added
 - Updated mods to their latest versions.
