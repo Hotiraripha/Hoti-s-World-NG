@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.6.6] - 24/09/2024
+### Changed
+- Compacted additional weapons into ESL format, reducing the ESP count by 30.
+
+### Fixed
+- **CLASSIC** crash fix.
+
 ## [v0.6.5] - 24/09/2024
 ### Updated
 - Updated mods to their latest versions.
