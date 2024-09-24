@@ -1,5 +1,18 @@
 # Changelog
 
+## [v0.6.5] - 24/09/2024
+### Updated
+- Updated mods to their latest versions.
+- Patched additional mods.
+
+### Added
+- Added **ITO v2**.
+- Added a couple of extra weapons from *New Vegas*.
+- Added an energy Gatling laser.
+
+### Notes
+- This update is save safe.
+
 ## [v0.6.4] - 21/09/2024
 ### Updated
 - Updated mods to their latest versions.
