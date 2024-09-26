@@ -1,5 +1,35 @@
 # Changelog
 
+## [v0.7.0] - 26/09/2024
+### Installed
+- **Attack of the Lobotomites - Lesser Loot Patch**.
+- **Point Lookout - Essential Fixes and Additions**.
+- **Vertibird Sword**.
+- **German Porshet-5 Power Armor**.
+- **T6M-Spadey's Unreal Rocket Launcher**.
+- **Shoddy Post-Apocalyptic Marketing - SPAM**.
+- **Seasons Change - Lightweight Lighting Patch**.
+- **Lightweight Lighting - A weather and interior lighting overhaul**.
+- **America Rising 2 - The Attachment Pack Compatibility Patch**.
+- **WWII Weapon Replacers - M1928A1 Thompson**.
+- **XDI - America Rising 2 (AR2) Patch**.
+- **Caves Of The Commonwealth**.
+- **Bengal - Long Lasting Flare**.
+- **Camora's Branch 74 PRP Patch Hub**.
+
+## [v0.6.8] - 26/09/2024
+### Installed
+- **Be Mine Valentine - Quest and Romance**.
+- **Big Island Radio - A Fallout Hawaii Radio**.
+
+### Updated
+- **Commissar Pistol Bundle**.
+- **MUTATION**.
+- **AEC19 Laser Cannon**.
+- **V52 Assault Rifle - Vargo 52 Redux**.
+- **Auto-Ordnance Corporation Laser RCW**.
+- **ITO Institute Technology Overhaul Full - Version 2**.
+
 ## [v0.6.7] - 25/09/2024
 ### Updated
 - **Community Fixes Merged**.
