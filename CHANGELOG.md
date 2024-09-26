@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.6.7] - 25/09/2024
+### Updated
+- **Community Fixes Merged**.
+- **ITO Institute Technology Overhaul Full - Version 2**.
+- **Auto-Ordnance Corporation Laser RCW**.
+- **AEC19 Laser Cannon**.
+- **Previsibines Repair Pack Stable Branch (PRP)**.
+- **You Are Exceptional - Skills and Perk Overhaul v1.12j**.
+
+
 ## [v0.6.6] - 24/09/2024
 ### Changed
 - Compacted additional weapons into ESL format, reducing the ESP count by 30.
