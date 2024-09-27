@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/img/banner.png",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_751fd5fc-6286-4d7a-8262-152d167bdeb1",
+      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_1ea4902e-7ba9-493e-9b52-397b4015f6bf",
       "machineURL": "hotisworld_ng",
       "discordURL": "https://discord.gg/knCJnmbUQK"
     },
     "download_metadata": {
-      "Hash": "BVH7xpuRg8A=",
-      "Size": 170850427,
-      "NumberOfArchives": 1685,
-      "SizeOfArchives": 124575528567,
-      "NumberOfInstalledFiles": 31103,
-      "SizeOfInstalledFiles": 139900137798
+      "Hash": "c5566t483kM=",
+      "Size": 170841562,
+      "NumberOfArchives": 1682,
+      "SizeOfArchives": 124487985988,
+      "NumberOfInstalledFiles": 31041,
+      "SizeOfInstalledFiles": 139810031367
     },
     "version": "0.7.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-27T09:26:23.8627686Z",
+    "dateUpdated": "2024-09-27T10:01:59.9700245Z",
     "repositoryName": ""
   }
 ]
