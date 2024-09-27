@@ -1,5 +1,34 @@
 # Changelog
 
+## [v0.7.2] - 27/09/2024
+### Removed
+- **SKK Corpse Looting**.
+- **Police Riot Shotgun**.
+
+### Updated
+- Various mods to their latest version.
+
+## [v0.7.1] - 27/09/2024
+### Installed
+- **4estGimp - Atom's Glory Threads SotS Atom's Storm Patch**.
+- **Atom's Glory Threads**.
+- **Church of Atom Overhaul**.
+- **Children of Atom Power Armor**.
+- **4estGimp - Radical COA Addon INNR Fix and CR**.
+- **Children of Atom Settlers**.
+- **Radical - COA Addons**.
+- **Workshop Framework**.
+- **Nuka World - Skip Raiding Your Own Settlements**.
+- **N99 10mm Pistol - F4NV**.
+- **Classic Skill Books - New Magazines** (Pugilism, Deans, Nikola Tesla, and more).
+- **Vault Dweller's Survival Guide - New Magazines**.
+- **Brotherhood Field Manual - New Magazines** (BOS - Brotherhood of Steel).
+
+### Updated
+- **ITO Institute Technology Overhaul Full - Version 2**.
+- **AEC19 Laser Cannon**.
+
+
 ## [v0.7.0] - 26/09/2024
 ### Installed
 - **Attack of the Lobotomites - Lesser Loot Patch**.
