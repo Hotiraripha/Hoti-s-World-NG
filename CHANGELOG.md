@@ -1,5 +1,19 @@
 # Changelog
 
+## [v0.7.3] - 28/09/2024
+### Installed
+- **Assorted Modular Tweaks - ESPless**.
+
+### Removed
+- **Console Highlight**.
+- **Remove Ironsight Blur** (this mod replaces both features).
+
+### Updated
+- **Improved Institute**.
+- **ITO Institute Technology Overhaul Full - Version 2**.
+- **Papyrus Common Library**.
+- **Garden of Eden Papyrus Script Extender**.
+
 ## [v0.7.2] - 27/09/2024
 ### Removed
 - **SKK Corpse Looting**.
