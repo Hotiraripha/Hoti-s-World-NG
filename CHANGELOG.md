@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.7.4] - 1/10/2024
+### Updated
+- Updated mods to their latest versions.
+
 ## [v0.7.3] - 28/09/2024
 ### Installed
 - **Assorted Modular Tweaks - ESPless**.
