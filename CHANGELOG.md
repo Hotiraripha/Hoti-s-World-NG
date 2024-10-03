@@ -1,5 +1,21 @@
 # Changelog
 
+## [v0.7.5] - 03/10/2024
+### Updated
+- **Wattz 3000 mkII Laser Gun**.
+- **Attachment Pack - Description Tweaks and Fixes**.
+- **FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC)**.
+- **Auto-Ordnance Corporation Laser RCW**.
+- **The Attachment Pack**.
+- **Assorted Modular Tweaks - ESPless**.
+- **Previsibines Repair Pack Stable Branch (PRP)**.
+- **Unofficial Fallout 4 Patch (UFO4P)**.
+- **MTs-255 - Revolver Shotgun Empowered**.
+- **Community Fixes Merged**.
+
+### Removed
+- **VAFS Redux**.
+
 ## [v0.7.4] - 1/10/2024
 ### Updated
 - Updated mods to their latest versions.
