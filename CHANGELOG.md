@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.7.6] - 04/10/2024
+### Updated
+- **The Attachment Pack**.
+- **Godrays Performance Fix Redux**.
+- **Weapon Behavior Ironsights Movement Direction Lock Fixes and Tweaks (3rd Person)**.
+- **Assorted Modular Tweaks - ESPless**.
+
 ## [v0.7.5] - 03/10/2024
 ### Updated
 - **Wattz 3000 mkII Laser Gun**.
