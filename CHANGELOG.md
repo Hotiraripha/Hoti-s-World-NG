@@ -1,5 +1,18 @@
 # Changelog
 
+## [v0.7.7] - 05/10/2024
+### Installed
+- **Heavyjet - A Gyrojet Revolver**.
+- **Lily Pads and Pond Scum Remover**.
+- **Deagle .50 AE Munitions Patch**.
+- **Deagle .50 AE**.
+
+### Updated
+- **Shoulder Mounted Machine Gun - Rat Runners Arsenal**.
+- **Tumbajamba's Gunner Armor Collection**.
+- **Super Mutant Equality - A Super Mutant Weapon Expansion**.
+- **ITO Institute Technology Overhaul Full - Version 2**.
+
 ## [v0.7.6] - 04/10/2024
 ### Updated
 - **The Attachment Pack**.
