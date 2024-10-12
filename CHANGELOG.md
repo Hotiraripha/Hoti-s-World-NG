@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.8.0] - 12/10/2024
+### Updated
+- **ITO Institute Technology Overhaul Full - Version 2**.
+- **Community Fixes Merged**.
+- **Deagle .50 AE**.
+- **Assorted Modular Tweaks - ESPless**.
+- **Reaper's RobCo Munitions Patches**.
+- **Weapon Behavior Ironsights Movement Direction Lock Fixes and Tweaks (3rd person)**.
+
+### Removed
+- **F4NV .44 Magnum Dual .44s Patch**.
+
 ## [v0.7.7] - 05/10/2024
 ### Installed
 - **Heavyjet - A Gyrojet Revolver**.
