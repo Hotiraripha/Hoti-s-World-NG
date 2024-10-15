@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v0.8.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-v0.8.1-blue" alt="Version">
   <img src="https://img.shields.io/badge/status-WIP-yellow" alt="Status">
 </p>
 
@@ -41,8 +41,8 @@ For further details, refer to the [Wabbajack Installation Guide](https://github.
 
 ## Post-Installation
 
- **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
-
+- **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
+- **NVIDIA Users**: If you are using an NVIDIA GPU, you will need to manually activate the weapon debris crash fix to prevent potential crashes related to this feature. This setting can be found in the `Fallout4Prefs.ini` file under `[Display]`, by setting `bEnableDebris` to `0`.
 
 ## Modifications
 

@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.8.1] - 15/10/2024
+### Updated
+- **Wattz 3000 mkII Laser Gun**.
+- **Auto-Ordnance Corporation Laser RCW**.
+- **ITO Institute Technology Overhaul Full - Version 2**.
+- **Ragdoll Physics - More Realistic Ragdoll Death Physics and Corpse Collision**.
+- **Alias - Unique Dynamic Name Generation for NPCs**.
+- **Deagle .50 AE Munitions Patch**.
+- **BSArchPro**.
+- **Community Fixes Merged**.
+
+
 ## [v0.8.0] - 12/10/2024
 ### Updated
 - **ITO Institute Technology Overhaul Full - Version 2**.
