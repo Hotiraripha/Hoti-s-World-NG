@@ -1,5 +1,21 @@
 # Changelog
 
+## [v0.8.2] - 18/10/2024
+
+### Updated
+- **ITO Institute Technology Overhaul Full - Version 2**.
+- **Who's The General - Minutemen Quest Cleanup**.
+- **Community Fixes Merged**.
+- **AEC19 Laser Cannon**.
+
+### Installed
+- **Water LOD Fix**.
+- **Weston Water LOD Fix**.
+- **Flowing Rivers - Better Coastal Waves**.
+- **ZP's Vanilla Water Liquid Scum**.
+- **ZP's Fire and Smoke**.
+
+
 ## [v0.8.1] - 15/10/2024
 ### Updated
 - **Wattz 3000 mkII Laser Gun**.
