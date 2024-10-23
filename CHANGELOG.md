@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.8.3] - 23/10/2024
+
+### Updated
+- **.44 Auto-Revolver (Mateba Unica 6)**.
+- **T6M's Lurker Pistol V2**.
+- **Wattz 3000 mkII Laser Gun**.
+- **Community Fixes Merged**.
+- **V52 Assault Rifle - Vargo 52 Redux**.
+- **Commissar Pistol Bundle**.
+
+
 ## [v0.8.2] - 18/10/2024
 
 ### Updated
