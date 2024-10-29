@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.8.4] - 29/10/2024
+
+### Updated
+- **Combat Rifle Attachment And Weaponry Expansion - Rat Runners Arsenal**
+- **ITO Institute Technology Overhaul Full - Version 2**
+- **Tumbajamba's Gunner Armor Collection**
+- **20mm Anti Power Armor Rifle (PTRD-41)**
+- **Nuka World - Skip Raiding Your Own Settlements**
+- **M1903 Infantry Rifle - M1903 Day of Infamy Redux**
+
 ## [v0.8.3] - 23/10/2024
 
 ### Updated
