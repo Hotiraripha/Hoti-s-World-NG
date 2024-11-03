@@ -1,5 +1,22 @@
 # Changelog
 
+## [v0.8.5] - 3/11/2024
+
+### Updated
+- **Leveled Item Fixes (LIF)**
+- **Equipment and Crafting Overhaul (ECO) - Redux**
+- **Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More**
+- **Pig's Improvised Explosives Pack**
+- **Combat Rifle Attachment And Weaponry Expansion - Rat Runners Arsenal**
+- **V52 Assault Rifle - Vargo 52 Redux**
+- **ITO Institute Technology Overhaul Full - Version 2**
+- **Be Mine Valentine - Quest and Romance**
+
+### Removed
+- **Mark XIX Pistol - Desert Eagle**
+- **Smith and Wesson R8 Revolver**
+
+
 ## [v0.8.4] - 29/10/2024
 
 ### Updated
