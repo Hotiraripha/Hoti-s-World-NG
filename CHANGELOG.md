@@ -1,5 +1,23 @@
 # Changelog
 
+## [v0.8.6] - 10/11/2024
+
+### Save Safe
+
+### Updated
+- **Community Fixes Merged**
+- **Tumbajamba's Gunner Armor Collection**
+- **Garden of Eden Papyrus Script Extender**
+- **Settlement Menu Manager Patches (SMM)**
+- **ITO Institute Technology Overhaul Full - Version 2**
+- **Reaper's RobCo Munitions Patches**
+- **MUTATION**
+- **Robco - Realistic Weapon Names**
+- **Dynamic Outfitting**
+- **Improved Institute**
+- **Auto-Ordnance Corporation Laser RCW**
+- **Magazine Perks Tab v1.00e**
+
 ## [v0.8.5] - 3/11/2024
 
 ### Updated
