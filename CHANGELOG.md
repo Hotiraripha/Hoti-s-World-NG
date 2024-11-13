@@ -1,5 +1,19 @@
 # Changelog
 
+## [v0.8.7] - 13/11/2024
+
+### Disabled
+- **Super ultrawide interface mods**
+
+### Updated
+- **Improved Brotherhood of Steel**
+- **Improved Guards**
+- **Improved Railroad**
+- **Nuka World - Skip raiding your own settlements**
+- **CSEP Presents Loaded Bases 2.0 - The Final Chapter - Quest Mod**
+- **Community Fixes Merged**
+- **ITO Institute Technology Overhaul Full - Version 2**
+
 ## [v0.8.6] - 10/11/2024
 
 ### Save Safe
