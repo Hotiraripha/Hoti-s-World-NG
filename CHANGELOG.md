@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.0.0] - 16/11/2024
+
+### Updated
+- **You Are Exceptional - Skills and Perk Overhaul v1.14**
+- **Garden of Eden Papyrus Script Extender**
+- **Papyrus Common Library**
+- **Assorted Modular Tweaks - ESPless**
+- **Model 37 Shotgun - Ithaca Model 37 V2**
+- **Wasteland Imports - Reloaded**
+- **Hit Those Explosives**
+- **Dynamic Outfitting**
+- **Better Lootable Vehicles of the Commonwealth**
+- **.38 Machine Pistol (Mac-11)**
+- **CSEP Presents All Americans 2.0 DELUXE EXPANDED EDITION - Quest Mod**
+- **Community Fixes Merged**
+
 ## [v0.8.7] - 13/11/2024
 
 ### Disabled
