@@ -1,5 +1,26 @@
 # Changelog
 
+## [v1.0.3] - 04/01/2025
+
+### **Notes**  
+- Organized Ultra-Wide mods under a new separator.  
+- Added an xPrevisPatch.  
+- Generated FaceGen Data.  
+### **Installed**  
+- **Slow Motion Dismemberment**  
+- **Ultra Wide Interface (21x9)**  
+- **X-Cell**
+### **Removed**  
+- **There It Is - Satellite Maps For Collectors**  
+### **Updated**  
+- **RobCo - Smarter Companions**  
+- **Assorted Modular Tweaks - ESPless**  
+- **Assorted Modular Tweaks - ESPless - Config**  
+- **Spell Perk Item Distributor**  
+- **Easy Ammo Vending Machine v1.2**  
+- **AR2 Texture Improvements 1.1**  
+- **Wattz 3000 mkII 4k Textures**
+
 ## [v1.0.0] - 16/11/2024
 
 ### Updated

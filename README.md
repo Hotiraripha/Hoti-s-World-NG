@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/status-Final-green" alt="Status">
+  <img src="https://img.shields.io/badge/version-v1.0.3-blue" alt="Version">
+  <img src="https://img.shields.io/badge/status-beta-green" alt="Status">
 </p>
 
 # Hoti's World NG
