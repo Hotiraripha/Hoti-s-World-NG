@@ -1,5 +1,40 @@
 # Changelog
 
+## [v1.0.4] - 12/01/2025
+
+### **Notes**  
+- Fixed 21x9 from being missing in 1.0.3.  
+### **Installed**  
+- **NPCs Change Clothes**  
+- **Attachment Pack Unofficial Expansion Refinement**  
+- **FallUI - Map**
+### **Updated**  
+- **RobCo Patcher**  
+- **Equipment and Crafting Overhaul (ECO) - Redux**  
+- **Dynamic Activation Key**  
+- **Diverse Gunners**  
+- **Configurable Hotkeys**  
+- **New Equipment Overhaul (NEO)**  
+- **Leveled Item Fixes (LIF)**  
+- **Lighthouse Papyrus Extender**  
+- **Community Fixes Merged**  
+- **Community Fixes Merged - Weapon Mod Fixes Patch**  
+- **High FPS Physics Fix**  
+- **PRP**  
+- **Workshop Framework [Old-Gen Replacers]**  
+- **Garden of Eden Papyrus Script Extender**  
+- **Settlement Menu Manager Patches (SMM)**  
+- **Laser RCW**  
+- **Improved Railroad**  
+- **Improved Minutemen**  
+- **Improved Hostile Factions**  
+- **First Person Dodge**  
+- **Low Profile Loader**  
+- **FGEP 2K Textures**  
+- **Immersive Modded Guns (RobCo Patcher)**  
+- **4estGimp - Raider Overhaul ONE**  
+- **DLC Timing ESL**
+
 ## [v1.0.3] - 04/01/2025
 
 ### **Notes**  

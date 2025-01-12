@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.3-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-v1.0.4-blue" alt="Version">
   <img src="https://img.shields.io/badge/status-beta-green" alt="Status">
 </p>
 
-# Hoti's World NG
+# Hoti's World Reborn
 
 ## Table of Contents
 - [Description](#description)
@@ -19,7 +19,7 @@
 
 ## Description
 
-Welcome to the WIP version of Hoti's World NG! This update, dubbed "Hoti's World NG," is designed to enhance the previous Hoti's World modlist with support for the latest Fallout 4 updates, new Wabbajack versions, and modern modding practices. Please read everything carefully before installation.
+Welcome to the WIP version of Hoti's World Reborn! This update, dubbed "Hoti's World Reborn," is designed to enhance the previous Hoti's World modlist with support for the latest Fallout 4 updates, new Wabbajack versions, and modern modding practices. Please read everything carefully before installation.
 
 ## Pre-Installation
 
