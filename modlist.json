@@ -1,6 +1,6 @@
 [
   {
-    "title": "Hoti's World Reborn",
+    "title": "Hoti\u0027s World Reborn",
     "description": "A Work In Progress total overhaul of Fallout 4 that aims to be what I would have wanted the game to be, feedback welcome but remember, it is in beta.",
     "author": "Hotiraripha",
     "maintainers": [
@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/img/banner.png",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_fb8db700-00ba-4f57-9197-9e68c65d874f",
+      "download": "https://authored-files.wabbajack.org/Hotisworld NG.wabbajack_84cb1d8e-c108-4798-b358-7a4da3387ad2",
       "machineURL": "hotisworld_ng",
       "discordURL": "https://discord.gg/knCJnmbUQK"
     },
     "download_metadata": {
-      "Hash": "RFvxA3rCUOg=",
-      "Size": 197117275,
-      "NumberOfArchives": 1642,
-      "SizeOfArchives": 129191627992,
-      "NumberOfInstalledFiles": 41405,
-      "SizeOfInstalledFiles": 144397904420
+      "Hash": "uDMLT38TI9M=",
+      "Size": 180976278,
+      "NumberOfArchives": 1646,
+      "SizeOfArchives": 129279829634,
+      "NumberOfInstalledFiles": 41731,
+      "SizeOfInstalledFiles": 144572021779
     },
-    "version": "1.0.4",
+    "version": "1.0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-12T03:01:06.9854447Z",
+    "dateUpdated": "2025-01-14T10:57:43.3041651Z",
     "repositoryName": ""
   }
 ]
