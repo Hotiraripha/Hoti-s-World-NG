@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.5-blue" alt="Version">
-  <img src="https://img.shields.io/badge/status-beta-green" alt="Status">
+  <img src="https://img.shields.io/badge/version-v1.0.5-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/status-beta-orange?style=for-the-badge" alt="Status">
+  <img alt="Discord" src="https://img.shields.io/discord/1265099754669477968?style=for-the-badge&logo=discord&label=Discord&color=5865F2&link=https://discord.gg/uHDxUzWgRa">
 </p>
 
 # Hoti's World Reborn
