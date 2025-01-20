@@ -49,6 +49,9 @@ For further details, refer to the [Wabbajack Installation Guide] (https://wiki.w
 ## Gameplay
 - **Gameplay Flow**: Please remember to spec early into the skills and perks you wish to use, as otherwise, if you go for a balanced character from the get go, thanks to the mod " You Are Exceptional " you will not do much if any damage, as that is the perks overhaul and system Hotisworld NG, the modlist in question, uses. I recommend a minimum of 40 points into the specific skills you wish to use. and pic the trait named "**Military Training**" which further boosts your skills by 10 points, enabling you to do more damage early on in the game.
 - **Revive Player**: Hotisworld Reborn features a mod called "Revive Player" (https://www.nexusmods.com/fallout4/mods/90215) which does not immeditately reload the previous save upon death, as this mod if configured accordingly and if the criteria are met, can and will revive the player, therefore we recommend checking out the mod personally, this is an experimental feature as of January 2025, it may be removed in the future.
+- **Current Keybinds**
+![image](https://github.com/user-attachments/assets/f54dfa6c-5147-499f-b416-abd8e0d079c5)
+
 
 ## Modifications
 
