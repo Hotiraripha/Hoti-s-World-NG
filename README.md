@@ -34,8 +34,8 @@ For further details, refer to the [Wabbajack Installation Guide] (https://wiki.w
 ## Specifications (as of January 2025)
 
 - 💾 **Storage**: You will need a total of 270 GB of available storage.
-- 🚀 **Drive**: Install Hoti’s World NG on either a SATA or NVMe SSD. HDDs or SSHDDs are not supported.
-- 🖥 **GPU**: Hotisworld NG uses a series of lightweight texture enhancing mods, which in turn increase the Video Memory's needed allocation and utilisation size, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
+- 🚀 **Drive**: Install Hoti’s World Reborn on either a SATA or NVMe SSD. HDDs or SSHDDs are not supported.
+- 🖥 **GPU**: Hotisworld Reborn uses a series of lightweight texture enhancing mods, which in turn increase the Video Memory's needed allocation and utilisation size, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
 - 🧠 **RAM**: A minimum of 32 GB is required.
 - ⚙️ **CPU**: A 6-core processor (e.g., i5-10400F or Ryzen 5 3600) is adequate. Higher single-threaded performance will yield better results, such as AMD Ryzen's X3D series of processors.
 
@@ -47,6 +47,7 @@ For further details, refer to the [Wabbajack Installation Guide] (https://wiki.w
 
 ## Gameplay
 - **Gameplay Flow**: Please remember to spec early into the skills and perks you wish to use, as otherwise, if you go for a balanced character from the get go, thanks to the mod " You Are Exceptional " you will not do much if any damage, as that is the perks overhaul and system Hotisworld NG, the modlist in question, uses. I recommend a minimum of 40 points into the specific skills you wish to use. and pic the trait named "**Military Training**" which further boosts your skills by 10 points, enabling you to do more damage early on in the game.
+- **Revive Player**: Hotisworld Reborn features a mod called "Revive Player" (https://www.nexusmods.com/fallout4/mods/90215) which does not immeditately reload the previous save upon death, as this mod if configured accordingly and if the criteria are met, can and will revive the player, therefore we recommend checking out the mod personally, this is an experimental feature as of January 2025, it may be removed in the future.
 
 ## Modifications
 
