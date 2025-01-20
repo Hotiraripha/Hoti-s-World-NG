@@ -41,7 +41,7 @@ For further details, refer to the [Wabbajack Installation Guide] (https://wiki.w
 
 ## Post-Installation
 
-- **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
+- **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start **Start Game**.
 - **NVIDIA Users**: Enable the mod weapon debris crash fix in the mods section of mod organizer 2, otherwise you will experience crashes.
 - **IMPORTANT**: once you load into the game with the "Start Game" option, and create your character, you want to select **YES** when the game asks you if you want to let the game load mods, and once it has finished and you have talked to the robot who engages in a conversation with you, wait until all the pop ups have disappeared, once that  has happened, please save your game, not quicksave, normal save.
 
