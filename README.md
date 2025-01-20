@@ -33,7 +33,7 @@ For further details, refer to the [Wabbajack Installation Guide] (https://wiki.w
 
 ## Specifications (as of January 2025)
 
-- 💾 **Storage**: You will need a total of 370 GB of available storage.
+- 💾 **Storage**: You will need a total of 270 GB of available storage.
 - 🚀 **Drive**: Install Hoti’s World NG on either a SATA or NVMe SSD. HDDs or SSHDDs are not supported.
 - 🖥 **GPU**: Hotisworld NG uses a series of lightweight texture enhancing mods, which in turn increase the Video Memory's needed allocation and utilisation size, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
 - 🧠 **RAM**: A minimum of 32 GB is required.
