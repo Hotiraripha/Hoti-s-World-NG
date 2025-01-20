@@ -29,7 +29,7 @@ If you’ve previously played mods like *Fallout London*, **ensure you have a cl
 - 🔧 **Vanilla Version**: Make sure your Fallout 4 game is fully updated and unmodified. Regenerate INI files for a fresh start.
 - 💻 **Initial Launch**: Run the game at least once before installation to configure your graphical settings.
 
-For further details, refer to the [Wabbajack Installation Guide](https://github.com/wabbajack-tools/wabbajack/wiki/Installation). 
+For further details, refer to the [Wabbajack Installation Guide] (https://wiki.wabbajack.org/)
 
 ## Specifications (as of January 2025)
 
