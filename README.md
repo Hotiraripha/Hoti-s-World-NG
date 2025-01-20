@@ -51,6 +51,7 @@ For further details, refer to the [Wabbajack Installation Guide](https://github.
 ## Modifications
 
 - **Updating Mods**: When adding or updating mods, mark them with the `[NoDelete]` flag in MO2 to prevent them from being removed during updates. For example, rename your mod to `[NoDelete] XM2010 Enhanced Sniper Rifle`.
+- Many wabbajack lists do not offer support for modified lists by the user, so please do mention ahead of time if you have added any or removed any mods from the list, as that will disqualify you from support, the modlsit has been designed to play well with everything that is enabled.
 
 ## Feedback and Community
 
