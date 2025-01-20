@@ -31,13 +31,13 @@ If you’ve previously played mods like *Fallout London*, **ensure you have a cl
 
 For further details, refer to the [Wabbajack Installation Guide](https://github.com/wabbajack-tools/wabbajack/wiki/Installation) and [MO2 User Guide](https://modding.wiki/en/modding-guides/mod-organizer-2).
 
-## Specifications (as of August 2024)
+## Specifications (as of January 2025)
 
 - 💾 **Storage**: You will need a total of 370 GB of available storage.
 - 🚀 **Drive**: Install Hoti’s World NG on either a SATA or NVMe SSD. HDDs or SSHDDs are not supported.
-- 🖥 **GPU**: While the modlist doesn’t demand more VRAM than vanilla Fallout 4, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
+- 🖥 **GPU**: Hotisworld NG uses a series of lightweight texture enhancing mods, which in turn increase the Video Memory's needed allocation and utilisation size, an 8 GB GPU (e.g., RX 5700, GTX 1080 Ti, or better) is recommended.
 - 🧠 **RAM**: A minimum of 32 GB is required.
-- ⚙️ **CPU**: A 6-core processor (e.g., i5-10400F or R5 3600) is adequate. Higher single-threaded performance will yield better results.
+- ⚙️ **CPU**: A 6-core processor (e.g., i5-10400F or Ryzen 5 3600) is adequate. Higher single-threaded performance will yield better results, such as AMD Ryzen's X3D series of processors.
 
 ## Post-Installation
 
