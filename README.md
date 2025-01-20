@@ -43,6 +43,10 @@ For further details, refer to the [Wabbajack Installation Guide](https://github.
 
 - **Initial Setup**: Launch the Fallout 4 launcher through Mod Organizer 2 (MO2) to set your graphical settings. Afterward, close the launcher and start F4SE.
 - **NVIDIA Users**: Enable the mod weapon debris crash fix in the mods section of mod organizer 2, otherwise you will experience crashes.
+- **IMPORTANT**: once you load into the game with the "Start Game" option, and create your character, you want to select **YES** when the game asks you if you want to let the game load mods, and once it has finished and you have talked to the robot who engages in a conversation with you, wait until all the pop ups have disappeared, once that  has happened, please save your game, not quicksave, normal save.
+
+## Gameplay
+- **Gameplay Flow**: Please remember to spec early into the skills and perks you wish to use, as otherwise, if you go for a balanced character from the get go, thanks to the mod " You Are Exceptional " you will not do much if any damage, as that is the perks overhaul and system Hotisworld NG, the modlist in question, uses. I recommend a minimum of 40 points into the specific skills you wish to use. and pic the trait named "**Military Training**" which further boosts your skills by 10 points, enabling you to do more damage early on in the game.
 
 ## Modifications
 
