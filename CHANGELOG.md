@@ -1,5 +1,128 @@
 # Changelog
 
+## [v2.0.0] - 22/01/2025
+
+### **Notes**  
+- Not save safe
+- the WIP MCM settings dubbed "Reborn WIP" has been further expanded upon, further tweaking settings such as the FOV, adding and configuring some MCM mods, increased the number of points given by YAE to curb the difficulty at the beginning of the game and added more hotkeys which will eventually be added to the GitHub readme.
+- Photo mode now saves Photos (Stock Game\Photos)
+- have proceeded to further decrease the plugin count by around 25  (reverted)
+- Fixed xedit being missing
+- FIxed the caravan npcs armour being missing
+- Fixed the Marksman Pistol (Super Comanche .45-70) being missing.
+
+### **Installed**  
+- **K-02 and Universelle Pistol - Kiparis and USP**
+- **Project Arroyo - Pip-Boy 2000**
+- **Immersive Main Menus - AIO**
+- **xPrevisPatch - Hotisworld Reborn**
+- **Improved America Rising 2 Enclave**
+- **Caravan Guard Outfit Overhaul**
+- **Random Encounter Framework Patch Hub: AR2,Capital wasteland auto axe, GCM and Fen's Sheriff Department "Bleachers 2" patches**
+- **FO4Edit**
+- **Cycling Rifle - Rat Runners Arsenal**
+- **Tumbajamba's Survivalist and mysterious strangers Outfits**
+- **Tumbajamba's Caravan Security Armor**
+- **Marksman Pistol (Super Comanche .45-70)**
+
+### **Updated**  
+- **Attachment Pack Unofficial Expansion Refinement**
+- **CHALLENGES**
+- **CHALLENGES - FNV-STYLED ICONS**
+- **Combat Rifle Attachment And Weaponry Expansion - Rat Runners Arsenal**
+- **Community Fixes Merged**
+- **Hit Those Explosives**
+- **ITO Institute Technology Overhaul Full v2**
+- **LaserRCW w/ Munitions Patch**
+- **NPCs Change Clothes**
+- **Papyrus Common Library**
+- **PRP Compat Point Lookout**
+- **Reaper's Robco Munitions Patches**
+- **Remnants - Secrets of the Enclave**
+- **[Faction] Improved Institute**
+- **[Faction] Improved Minutemen**
+- **CK Platform Extended**
+- **Dynamic Outfitting**
+- **Buffout 4 NG with PDB support**
+
+### **Removed**
+- **Laser-RCW Munitions Patch**
+- **WWII Weapon Replacers - M1928A1 Thompson**
+- **Thompson SMG Replacer**
+- **The super annoying "Good job, You're a good person, I love you" and negative karma prompts have been finally removed**
+- **Camora1's Main Menu replacer in favour of another mod**
+- **CLASSIC** 
+- **Real Windows - Interior Distant LOD Fixes**
+- **The Code**
+
+## [v1.0.6-1] - WIP
+
+### **Notes**  
+- Not save safe
+- the WIP MCM settings dubbed "Reborn WIP" has been further expanded upon, further tweaking settings such as the FOV, adding and configuring some MCM mods, increased the number of points given by YAE to curb the difficulty at the beginning of the game and added more hotkeys which will eventually be added to the github readme.
+
+### **Installed**  
+- **K-02 and Universelle Pistol - Kiparis and USP**
+- **Project Arroyo - Pip-Boy 2000**
+- **Immersive Main Menus - AIO**
+- **xPrevisPatch - Hotisworld Reborn**
+
+### **Updated**  
+- **Attachment Pack Unofficial Expanion Refinement**
+- **CHALLENGES**
+- **CHALLENGES - FNV-STYLED ICONS**
+- **Combat Rifle Attachment And Weaponry Expansion - Rat Runners Arsenal**
+- **Community Fixes Merged**
+- **Hit Those Explosives**
+- **ITO Institute Technology Overhaul Full v2**
+- **LaserRCW w/ Munitions Patch**
+- **NPCs Change Clothes**
+- **Papyrus Common Library**
+- **PRP Compat Point Lookout**
+- **Reaper's Robco Munitions Patches**
+- **Remnants - Secrets of the Enclave**
+- **[Faction] Improved Institute**
+- **[Faction] Improved Minutemen**
+- **CK Platform Extended**
+
+### **Removed**
+- **Laser-RCW Munitions Patch**
+- **WWII Weapon Replacers - M1928A1 Thompson**
+- **Thompson SMG Replacer**
+- **The super annoying "Good job, You're a good person, I love you" and negative karma prompts have been finally removed**
+- **Camora1's Main Menu replacer in favour of another mod**
+
+## [v1.0.6] - WIP
+
+### **Notes**  
+- Photomode now saves Photos (Stock Game\Photos\)
+
+### **Installed**  
+- **CineDrama LUT**
+- **K-02 and Universelle Pistol - Kiparis and USP**
+- **Project Arroyo - Pip-Boy 2000**
+- **Ultra Interior Lighting**
+
+### **Updated**  
+- **Attachment Pack Unofficial Expanion Refinement**
+- **CHALLENGES**
+- **CHALLENGES - FNV-STYLED ICONS**
+- **Combat Rifle Attachment And Weaponry Expansion - Rat Runners Arsenal**
+- **Community Fixes Merged**
+- **Hit Those Explosives**
+- **ITO Institute Technology Overhaul Full v2**
+- **LaserRCW w/ Munitions Patch**
+- **NPCs Change Clothes**
+- **Papyrus Common Library**
+- **PRP Compat Point Lookout**
+- **Reaper's Robco Munitions Patches**
+- **Remnants - Secrets of the Enclave**
+- **[Faction] Improved Institute**
+- **[Faction] Improved Minutemen**
+
+### **Removed**
+- **Laser-RCW Munitions Patch**
+
 ## [v1.0.4] - 12/01/2025
 
 ### **Notes**  
