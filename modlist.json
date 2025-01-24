@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Hotiraripha/Hoti-s-World-NG/main/img/banner.png",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World-NG/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Hoti\u0027s World Reborn.wabbajack_9f200c7f-e6eb-4636-83c6-4d2e01c96ea3",
+      "download": "https://authored-files.wabbajack.org/Hoti\u0027s World Reborn.wabbajack_58bbbf7f-bc11-4d46-9f1e-6ecf0bf6e7d5",
       "machineURL": "hotisworld_ng",
       "discordURL": "https://discord.gg/knCJnmbUQK"
     },
     "download_metadata": {
-      "Hash": "sb6HduWdWi8=",
-      "Size": 192575998,
+      "Hash": "0AGN99a0yg0=",
+      "Size": 194951171,
       "NumberOfArchives": 1660,
-      "SizeOfArchives": 135346174572,
-      "NumberOfInstalledFiles": 43341,
-      "SizeOfInstalledFiles": 147709446219
+      "SizeOfArchives": 135120481360,
+      "NumberOfInstalledFiles": 89842,
+      "SizeOfInstalledFiles": 149877353415
     },
-    "version": "2.0.1",
+    "version": "2.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-23T01:51:50.1292419Z",
+    "dateUpdated": "2025-01-24T22:53:38.121495Z",
     "repositoryName": ""
   }
 ]
